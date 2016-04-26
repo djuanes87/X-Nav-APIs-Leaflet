@@ -8,7 +8,7 @@ Mejora tu solución del ejercicio Leaflet: Coordenadas'', haciendo que el mapa s
 
 ## Visualizacion
 
-<a href="http://djuanes87.github.io/x-nav-apis-leaflet"> X-NAV-APIs-LEADFLET </a>
+<a href="http://djuanes87.github.io/X-Nav-APIs-Leaflet"> X-Nav-APIs-Leaflet </a>
 
 ##Contenido
 
